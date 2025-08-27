@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am graduate software engineer in major Digital Engineering
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a Software Engineer specializing in Front-end development, building modern, responsive, and scalable web applications. My primary focus is working with React, where I have developed projects using both JavaScript and TypeScript.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beyond the front-end, I have a growing interest in full-stack development. I enjoy exploring back-end technologies, working with APIs, databases, and server-side frameworks to better understand how the entire system fits together. My goal is to strengthen my back-end knowledge and build the robust and effecticent application.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/teerachet/) 
